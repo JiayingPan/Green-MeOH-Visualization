@@ -1,0 +1,5 @@
+# Libraries used in coding
+pandas
+matplotlib
+numpy
+scipy

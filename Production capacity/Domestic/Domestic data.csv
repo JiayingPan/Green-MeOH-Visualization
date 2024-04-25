@@ -1,0 +1,37 @@
+﻿Year,Capacity (kt),Feedstock,Type
+2020,1.4,CO2+H2,E-methanol
+2021,1.4,CO2+H2,E-methanol
+2022,1.4,CO2+H2,E-methanol
+2023,1.4,CO2+H2,E-methanol
+2024,89.4,CO2+H2,E-methanol
+2025,2646.9,CO2+H2,E-methanol
+2026,4056.9,CO2+H2,E-methanol
+2027,4734.9,CO2+H2,E-methanol
+2028,5554.9,CO2+H2,E-methanol
+2020,0,Biomass,Bio-methanol
+2021,0,Biomass,Bio-methanol
+2022,0,Biomass,Bio-methanol
+2023,0,Biomass,Bio-methanol
+2024,0,Biomass,Bio-methanol
+2025,470,Biomass,Bio-methanol
+2026,1240,Biomass,Bio-methanol
+2027,1240,Biomass,Bio-methanol
+2028,1240,Biomass,Bio-methanol
+2020,0,Biomass+H2,Bio-methanol
+2021,0,Biomass+H2,Bio-methanol
+2022,0,Biomass+H2,Bio-methanol
+2023,0,Biomass+H2,Bio-methanol
+2024,0,Biomass+H2,Bio-methanol
+2025,1200,Biomass+H2,Bio-methanol
+2026,1800,Biomass+H2,Bio-methanol
+2027,2100,Biomass+H2,Bio-methanol
+2028,2100,Biomass+H2,Bio-methanol
+2020,0,Residual waste,Bio-methanol
+2021,0,Residual waste,Bio-methanol
+2022,0,Residual waste,Bio-methanol
+2023,50,Residual waste,Bio-methanol
+2024,50,Residual waste,Bio-methanol
+2025,50,Residual waste,Bio-methanol
+2026,50,Residual waste,Bio-methanol
+2027,50,Residual waste,Bio-methanol
+2028,50,Residual waste,Bio-methanol
